@@ -1,6 +1,9 @@
 # dapp-store
 
-Please add your dapp link, and make pull request, Cyano mobile will integration your dApp with free.
+Please add your dapp link to [config.json](config.json), and make pull request, Cyano mobile will integration your dApp with free. 
+
+
+config.json as follows:
 
 ```
 {
